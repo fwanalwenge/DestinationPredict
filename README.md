@@ -1,2 +1,2 @@
-# DestinationPredict
+# DestinationPredict.
 Transforming Travel Experiences
