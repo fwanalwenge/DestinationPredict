@@ -1,6 +1,10 @@
 # DestinationPredict.
 Transforming Travel Experiences
 
+
+![image](Images/travel-world-landmarks-background-blue-sky-46083021.webp)
+
+
 ## Project Overview
 In the ever-expanding landscape of travel, the aim of this project is to revolutionize the industry by addressing a critical need for personalized recommendations. Traditional travel advisory services fall short in providing tailored experiences, leading to a lack of engagement among modern adventurers. Our project aims to fill this gap by deploying a data-driven solution that enhances user engagement and rejuvenates the travel sector. In order to increase engagement in the travel industry and increase excitement about travel opportunities, this is where DestinationPredict come in handy!
 
