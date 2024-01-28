@@ -60,7 +60,7 @@ The final model's confusion matrix from the test set is depicted below.
 # The Final Product
 The Destination Dictionary final product is a dash app hosted on my local machine (soon to be hosted on Heroku as well!). Check out a screenshot below, or see my non-technical walkthrough to see it in action!
 
-![image]()
+![image](Images/image.png)
 
 See the interactive app here See the full dash app repo here
 
@@ -69,7 +69,7 @@ Integrate the Destination Dictionary technology into pages where Top Destination
 
 Use the Destination Dictionary technology paired with a chatbot on travel websites to act as a virtual travel agent
 
-Offer paid sponsorship of the 'default' city-- ex. Tourism Board of Bali can pay be the first recommended city when you open the page
+Offer paid sponsorship of the 'default' city-- i.e. Tourism Board of Bali can pay be the first recommended city when you open the page
 
 # Future Work
 If I had time to explore further, I would investigate the following:
