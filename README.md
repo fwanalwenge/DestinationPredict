@@ -8,3 +8,15 @@ The DestinationPredict is a data product that allows future travelers to get a p
 
 ## Scraping of the Data(Data Mining)
 This project utilized data from 12 top cities from TripAdvisor's list of Traveler's Choice destinations for Popular World Destinations , which can be found at (https://www.tripadvisor.com/TravelersChoice-Destinations). The dataset was compiled by scraping the titles from Tripadvisor 'attractions' for each of the 12 cities. The final dataset included over 28,000 unique text values.
+
+# EDA
+
+The Exploratory Data Analysis for this project was mainly devoted to exploring some cleaning and preprocessing techniques for the text data using Natural Language Processing. I also investigated different vectorization strategies for the data and looked into specific words/phrases that needed to be cleaned/removed from the dataset.
+
+## Findings
+In order to classify the text data into different classes, I experimented with 3 different vectorization strategies:
+
+Count Vectorization
+TF-IDF Vectorization
+Count Vectorization using Bi-Grams
+After exploring the document term matrices, word clouds, and most frequent words from each of the 3 vectorization techniques, I concluded that the best vectorization strategy is to use TF-IDF vectorization. This strategy is often used to classify news articles into their correct topics, which is a similar use-case to the Destination Dictionary. The purpose here is to classify the text to the correct city, therefore TF-IDF vectorization provides the appropriate ratio to reflect how important a word is to each specific city.
