@@ -62,7 +62,7 @@ The Destination Dictionary final product is a dash app hosted on my local machin
 
 ![image](Images/image.png)
 
-See the interactive app here See the full dash app repo here
+
 
 # Recommendations for Use in the Travel Industry
 Integrate the Destination Dictionary technology into pages where Top Destination lists are published to drive engagement with future travelers and drive traffic to affiliate links
