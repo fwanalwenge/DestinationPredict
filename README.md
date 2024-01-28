@@ -60,7 +60,7 @@ The final model's confusion matrix from the test set is depicted below.
 # The Final Product
 The Destination Dictionary final product is a dash app hosted on my local machine (soon to be hosted on Heroku as well!). Check out a screenshot below, or see my non-technical walkthrough to see it in action!
 
-![image](https://github.com/jonvis23/DestinationPredict/assets/134020486/43c30350-c6cd-4e1f-9e71-dc8051c5da3f)
+![image]()
 
 See the interactive app here See the full dash app repo here
 
