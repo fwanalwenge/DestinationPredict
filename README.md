@@ -66,7 +66,7 @@ The Destination Dictionary final product is a dash app hosted on my local machin
 
 ![image](Images/image.png)
 
-
+See the interactive app [here](<https://destinationpredict-8pym.onrender.com/>) and find the full Dash app repository [here](<https://github.com/jonvis23/destinationpredictapp>).
 
 # Recommendations for Use in the Travel Industry
 Integrate the Destination Dictionary technology into pages where Top Destination lists are published to drive engagement with future travelers and drive traffic to affiliate links
